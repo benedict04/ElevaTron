@@ -117,3 +117,10 @@ if ( digitalRead(sensor_2) ==0){
 
 ![image](https://github.com/benedict04/ElevaTron/assets/109859485/faeeb3a9-29dd-4207-9ca0-3f1c2fa15412)
 
+
+## error free compilation in riscduino package
+
+![image](https://github.com/benedict04/ElevaTron/assets/109859485/fd63fc5f-a1cb-4046-ae7c-056f99c8bbb0)
+
+
+![image](https://github.com/benedict04/ElevaTron/assets/109859485/be8b67c9-83b7-4b23-882f-4bfffaab9c46)
