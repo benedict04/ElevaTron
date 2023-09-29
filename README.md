@@ -124,3 +124,7 @@ if ( digitalRead(sensor_2) ==0){
 
 
 ![image](https://github.com/benedict04/ElevaTron/assets/109859485/be8b67c9-83b7-4b23-882f-4bfffaab9c46)
+
+## BOM 
+
+![image](https://github.com/benedict04/ElevaTron/assets/109859485/bb2cd42e-3d1f-49a9-8b3d-f5400709e5d9)
